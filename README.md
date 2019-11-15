@@ -23,5 +23,6 @@ void _Out_Put_value(IN UAdress Register, OUT Raw_buffer buffer)
  _Out_Put_value(Register,buffer);
 }
 ```
-这里，IN和OUT的定义可以让代码更容易阅读，如上，IN表示把数据输入，OUT表示取数据，一个小小的技巧。
+这里，IN和OUT的定义可以让代码更容易阅读，如上，IN表示把数据输入，OUT表示取数据，一个小小的技巧。  
+
 ---
