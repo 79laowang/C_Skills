@@ -2,9 +2,10 @@
 Collecting and introduce some c language programming skills
 
 ## Skills
-* [技巧1: 宏定义的妙用方法](#skill1_技巧1）
+![#157500](https://placehold.it/15/157500?text=+)  [1.宏定义的妙用方法](#技巧1)  
 
-### skill1：宏定义的妙用方法
+###  技巧1.
+**宏定义的妙用方法**
 
 看了intel在linux内核中的驱动，学习到了一个非常有用的小技巧，如下代码：  
 
